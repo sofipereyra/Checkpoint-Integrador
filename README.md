@@ -1,1 +1,2 @@
 # Checkpoint-Integrador
+Sofía Pereyra
